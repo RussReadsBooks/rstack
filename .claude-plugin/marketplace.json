@@ -1,0 +1,11 @@
+{
+  "name": "rstack",
+  "owner": { "name": "Russell Newman" },
+  "plugins": [
+    {
+      "name": "rstack",
+      "source": "./",
+      "description": "Russell Newman's Claude Code skills."
+    }
+  ]
+}
