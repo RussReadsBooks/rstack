@@ -12,3 +12,7 @@ Examples:
 - "push it to the Maine branch" → assume "push it to the main branch"
 - "open a pool request" → assume "open a pull request"
 - "spin up an easy to instance" → assume "spin up an EC2 instance"
+
+## Unslop
+
+Before sending any prose you wrote for the user (drafts, docs, emails, PR/commit text, AGENTS.md sections), run the **unslop** skill (`/unslop`) and send the cleaned version. Skip one-line chat acknowledgements. Do not wait to be asked.
