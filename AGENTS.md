@@ -16,3 +16,7 @@ Examples:
 ## Unslop
 
 Before sending any prose you wrote for the user (drafts, docs, emails, PR/commit text, AGENTS.md sections), run the **unslop** skill (`/unslop`) and send the cleaned version. Skip one-line chat acknowledgements. Do not wait to be asked.
+
+## How to ask questions
+
+When you need a decision from the user, follow the **how-to-ask-good-questions** skill (`skills/how-to-ask-good-questions/SKILL.md`).
