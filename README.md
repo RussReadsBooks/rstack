@@ -2,7 +2,7 @@
 
 Russell Newman's small, growing set of agent skills and standing rules for Claude Code and Cursor. Each one captures a habit I'd like my agents to have by default, so I don't have to explain it every session.
 
-Inspired by [pstack](https://github.com/cursor/plugins/tree/main/pstack) and [Matt Pocock's skills](https://github.com/mattpocock/skills).
+Inspired by [pstack](https://github.com/cursor/plugins/tree/main/pstack), [Theo's tstack](https://github.com/t3dotgg/tstack), and [Matt Pocock's skills](https://github.com/mattpocock/skills).
 
 ## Skills
 
