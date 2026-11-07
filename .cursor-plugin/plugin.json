@@ -1,0 +1,13 @@
+{
+	"name": "rstack",
+	"displayName": "rstack",
+	"version": "0.1.0",
+	"description": "Russell Newman's agent skills.",
+	"author": {
+		"name": "Russell Newman"
+	},
+	"homepage": "https://github.com/RussReadsBooks/rstack",
+	"repository": "https://github.com/RussReadsBooks/rstack",
+	"license": "MIT",
+	"skills": "./skills/"
+}

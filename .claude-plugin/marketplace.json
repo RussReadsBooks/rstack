@@ -5,7 +5,7 @@
     {
       "name": "rstack",
       "source": "./",
-      "description": "Russell Newman's Claude Code skills."
+      "description": "Russell Newman's agent skills."
     }
   ]
 }
